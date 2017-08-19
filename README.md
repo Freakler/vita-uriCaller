@@ -3,7 +3,7 @@ Fast and easy solution to call URIs!
 
 *Thanks to: Team Molecule, xerpi, The_FloW & of course gdljjrod*
 
-#### Here are some URIs to temper with:
+#### Here are some URIs to tamper with:
 
 ```
 settings_dlg:
