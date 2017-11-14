@@ -105,7 +105,7 @@ int main(int argc, const char *argv[]) {
    
     int shown_dial = 0;
 	
-	char userText[512] = "psgm:play?titleid=VITASHELL";
+	char userText[512] = "psgm:play?titleid=NPXS10031";
 
     while (1) {
         if(!shown_dial){
