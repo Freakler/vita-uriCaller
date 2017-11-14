@@ -105,11 +105,11 @@ int main(int argc, const char *argv[]) {
    
     int shown_dial = 0;
 	
-	char userText[512] = "psgm:play?titleid=NPXS10031";
+	char userText[512] = "psgm:play?titleid=VITASHELL";
 
     while (1) {
         if(!shown_dial){
-            initImeDialog("★ URI Caller v0.1", userText, 128);
+            initImeDialog("★ URI Caller v0.2", userText, 128);
 			shown_dial=1;
         }
 

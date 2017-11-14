@@ -4,9 +4,9 @@ OBJS     = main.o
 
 PSVITAIP = 192.168.0.105
 
-LIBS = -lvita2d -lSceKernel_stub -lSceDisplay_stub -lSceGxm_stub -lSceIme_stub \
+LIBS = -lvita2d -lSceLibKernel_stub -lSceDisplay_stub -lSceGxm_stub -lSceIme_stub \
 	-lSceSysmodule_stub -lSceCtrl_stub -lScePgf_stub -lSceAppMgr_stub -lSceAppUtil_stub \
-	-lSceCommonDialog_stub -lfreetype -lpng -ljpeg -lz -lm -lc -lSceReg_stub -lSceVshBridge_stub
+	-lSceCommonDialog_stub -lfreetype -lpng -ljpeg -lz -lm -lc -lSceRegistryMgr_stub -lSceVshBridge_stub
 
 PREFIX  = arm-vita-eabi
 CC      = $(PREFIX)-gcc
