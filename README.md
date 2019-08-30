@@ -1,4 +1,4 @@
-# vita-uriCaller
+# uriCaller
 Fast and easy solution to call URIs! 
 
 *Thanks to: Team Molecule, xerpi, The_FloW & of course gdljjrod*
